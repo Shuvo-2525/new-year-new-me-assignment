@@ -12,7 +12,7 @@ header {
 
 .banner-des {
     margin-top: 24px;
-    margin-bottom: 32px;
+    margin-bottom: 42px;
 }
 
 
@@ -80,6 +80,9 @@ header {
 
 .sec1-list {
 padding: 8px 0;
+}
+.tick-mark-icon {
+    padding-right: 10px;
 }
 
 /* Section - 2 ( My Plans ) */
@@ -203,6 +206,8 @@ footer {
     background-color: black;
     color: white;
     border: 1px solid white;
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
 
 .footer-subscribe a {
